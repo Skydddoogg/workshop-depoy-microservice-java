@@ -2,6 +2,12 @@
 
 # Demo :: Deploy microservices with Docker
 
+## Docker Registry
+
+```
+https://hub.docker.com/u/thanawatsky
+```
+
 ## Step 1 :: Clone project
 ```
 $git clone https://github.com/up1/workshop-depoy-microservice-java.git
